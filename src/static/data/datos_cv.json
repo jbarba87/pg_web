@@ -1,0 +1,68 @@
+{
+    "experiencia": [
+      {
+        "id": 1,
+        "empresa": "Pontificia Universidad Catolica del Peru",
+        "periodo": "2011-2022",
+        "puesto": "Ingeniero",
+        "respondabilidades": 
+        ["resp1",
+        "resp2",
+        "resp3"
+        ]
+      },
+      {
+        "id": 2,
+        "empresa": "COOPECAN",
+        "periodo": "2020-2022",
+        "puesto": "Ingeniero IT",
+        "respondabilidades": 
+        ["resp1",
+        "resp2",
+        "resp3"
+        ]
+      }
+    ],
+    "skills": [
+      {
+        "id": 1,
+        "grupo": "Backend",
+        "items": 
+          [{
+            "id": 1,
+            "skill": "C++",
+            "level": "Advance"
+          },
+          {
+            "id": 2,
+            "skill": "PHP",
+            "level": "Intermediate"
+          },
+          {
+            "id": 3,
+            "skill": "Python",
+            "level": "Intermediate"
+          }]
+      },
+      {
+        "id": 2,
+        "grupo": "Frontend",
+        "items": 
+          [{
+            "id": 1,
+            "skill": "HTML",
+            "level": "Advance"
+          },
+          {
+            "id": 2,
+            "skill": "CSS",
+            "level": "Intermediate"
+          },
+          {
+            "id": 3,
+            "skill": "Javsript",
+            "level": "Intermediate"
+          }]
+      }
+    ]
+}

@@ -1,0 +1,82 @@
+.content-cv {
+  display: flex;
+    justify-content: space-between;
+  flex-direction: column;
+  width: 100%;
+  padding: 1rem;
+}
+
+.exp-emp {
+  font-weight: bold;
+  font-size: 1.6rem;
+  margin: 0.5rem 0;
+}
+.exp-time {
+  margin: 0.5rem;
+  font-size: 1.2rem;
+  margin: 0.5rem 0;
+}
+.exp-desc {
+  margin: 0.5rem;
+  font-size: 1.2rem;
+  margin: 0.5rem 0;
+}
+
+
+/* SKILLS */
+.skills{
+  margin: 0px;
+  
+}
+.skill-tag{
+
+}
+.skill-group {
+  width: 100%
+}
+.skill-title {
+  font-size: 1.4rem;
+
+}
+.skill-item {
+  display:flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 10px 0px;
+}
+
+
+@media (min-width: 600px){
+  .header-menu {
+    visibility: hidden;
+  }
+  main {
+    flex-direction: row;
+  }
+  .sidebar {
+    width: 30%;
+    max-width: 250px;
+    font-size: 1.3rem;
+  }
+  .content {
+    padding: 2rem 100px;
+  }
+  .cards-main {
+    grid-template-columns: 1fr 1fr;
+
+  }
+  .skills{
+    margin: 0px 5rem;
+    max-width: 400px;
+  }
+  .content-cv {
+    flex-direction: row;
+  }
+  .experience {
+    width: 60%;
+  }
+
+  .content-bio {
+    flex-direction: row;
+  }
+}

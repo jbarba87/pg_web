@@ -1,0 +1,73 @@
+
+  [
+    {
+      "id": 1,
+      "empresa": "Pontificia Universidad Católica del Perú",
+      "periodo": "08.2011 - actually",
+      "puesto": "Teaching assistent",
+      "descripcion": "Responsible for the next subjects:",
+      "respondabilidades": 
+      ["Computer arquitecture (IEE265)",
+      "Control theory 2 (IEE245)",
+      "Numerical methods in engineering (MAT241)",
+      "Digital image and signal processing (IEE239)",
+      "Statistics (EST103)"
+      ]
+    },
+    {
+      "id": 2,
+      "empresa": "Cooperativa de Producción y Servicios Especiales de los Productores de Camélidos Andinos Ltda. - COOPECAN",
+      "periodo": "08.2020 - 02.2022",
+      "puesto": "IT engineer",
+      "descripcion": "Duties:",
+      "respondabilidades": 
+      [
+        "Supervising the implementation of the Blockchain traceability system.",
+        "Responsible for the development of ERP modules in Odoo using Python.",
+        "Deploy and management of ERP systems in AWS EC2.",
+        "Institutional web design and deployment.",
+        "Analysis of Satellite images using QGIS."
+      ]
+    },
+    {
+      "id": 3,
+      "empresa": "Freelancer Programmer and Designer",
+      "periodo": "01.2017 - 01.2020",
+      "puesto": "",
+      "descripcion": "",
+      "respondabilidades": 
+      [
+        "Freelancer embedded systems programmer and IoT using Arduino modules (ESP32).",
+        "Freelancer programmer in Back-end Web Services using PHP, Python (Flask and Django).",
+        "Freelancer web designer using Wordpress."
+      ]
+    },
+    {
+      "id": 4,
+      "empresa": "Pontificia Universidad Católica del Perú",
+      "periodo": "03.2014 - 03.2016",
+      "puesto": "Responsible and researcher of the UAV laboratory",
+      "descripcion": "Developper and researcher of unmanned aerial vehicle (UAV) technology.Duties:",
+      "respondabilidades": 
+      [
+        "Design, programming and maintenance of our own developped UAVs.",
+        "Advice to teachers, researchers and students in the use of UAVs for particulary projects.",
+        "Advice to companies in order to improve theirs processes using UAV techonology.",
+        "Develop of UAV for particulary projects such as agriculture, monitoring, surveillance using open source UAV-autopilots (APM and PX4).",
+        "Develop of payload for the UAV in order to accomplish the propossed objective using embedded systems (arduino, raspberry pi, pcduino, jetson TK1)."
+      ]
+    },
+    {
+      "id": 5,
+      "empresa": "International Potato Center",
+      "periodo": "04.2010 - 07.2011",
+      "puesto": "Practising",
+      "descripcion": "Developper of aerial image processing software using OpenCV in C language.",
+      "respondabilidades": 
+      [
+        "Analize aerial image of a crop field taken by an own developped multispectral camera (red and near infrarred bands).",
+        "Programming an automatic image registration software using SURF and RANSAC algorithms to process all obtanied images.",
+        "Computer a NDVI index to know the vitality of the crop field."
+      ]
+    }
+  ]

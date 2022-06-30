@@ -1,0 +1,60 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+body {
+  min-height: 90vh;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Montserrat Alternates', sans-serif;
+}
+
+a:link, a:visited, a:hover,a:active {
+  text-decoration: none;
+  color: #000000;
+}
+
+
+@media (min-width: 600px){
+  .header-menu {
+    visibility: hidden;
+  }
+  main {
+    flex-direction: row;
+  }
+  .sidebar {
+    width: 30%;
+    max-width: 250px;
+    font-size: 1.3rem;
+  }
+  .content {
+    padding: 2rem 100px;
+  }
+  .cards-main {
+    grid-template-columns: 1fr 1fr;
+
+  }
+  .skills{
+    margin: 0px 5rem;
+    max-width: 400px;
+  }
+  .content-cv {
+    flex-direction: row;
+  }
+  .experience {
+    width: 60%;
+  }
+
+  .content-bio {
+    flex-direction: row;
+  }
+}

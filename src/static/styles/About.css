@@ -1,0 +1,32 @@
+/* About */
+.content-bio {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.bio-image{
+  margin: 2rem auto;
+  min-width: 250px;
+}
+
+.bio-about {
+  font-size: 1.2rem;
+  margin: 2rem;
+}
+
+.bio-image > img {
+  width: 100%
+}
+
+/* SOCIAL NETWORKS */
+.social-networks {
+  width: 300px;
+  margin: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.social-networks img {
+  width: 30px;
+}

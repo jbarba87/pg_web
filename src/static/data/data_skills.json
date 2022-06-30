@@ -1,0 +1,183 @@
+[
+  {
+    "id": 1,
+    "grupo": "Back-end programming",
+    "items": 
+      [{
+        "id": 1,
+        "skill": "Python",
+        "level": "Advance"
+      },
+      {
+        "id": 2,
+        "skill": "NodeJs",
+        "level": "Intermediate"
+      },
+      {
+        "id": 3,
+        "skill": "PHP",
+        "level": "Intermediate"
+      }]
+  },
+  {
+    "id": 2,
+    "grupo": "Front-end technologies",
+    "items": 
+      [{
+        "id": 1,
+        "skill": "HTML",
+        "level": "Advance"
+      },
+      {
+        "id": 2,
+        "skill": "CSS",
+        "level": "Intermediate"
+      },
+      {
+        "id": 3,
+        "skill": "Javasript",
+        "level": "Intermediate"
+      },
+      {
+        "id": 4,
+        "skill": "React",
+        "level": "Intermediate"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "grupo": "Data Analysis",
+    "items": 
+      [{
+        "id": 1,
+        "skill": "SQL",
+        "level": "Advance"
+      },
+      {
+        "id": 2,
+        "skill": "Python-Pandas",
+        "level": "Advance"
+      },
+      {
+        "id": 3,
+        "skill": "R",
+        "level": "Intermediate"
+      },
+      {
+        "id": 4,
+        "skill": "Excel",
+        "level": "Intermediate"
+      },
+      {
+        "id": 5,
+        "skill": "Power BI",
+        "level": "Intermediate"
+      },
+      {
+        "id": 6,
+        "skill": "SSIS",
+        "level": "Basic"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "grupo": "Design softwares",
+    "items": 
+      [{
+        "id": 1,
+        "skill": "Figma",
+        "level": "Intermediate"
+      },
+      {
+        "id": 2,
+        "skill": "Inkscape",
+        "level": "Intermediate"
+      },
+      {
+        "id": 3,
+        "skill": "Gimp",
+        "level": "Intermediate"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "grupo": "Embedded Systems",
+    "items": 
+      [{
+        "id": 1,
+        "skill": "C/C++",
+        "level": "Intermediate"
+      },
+      {
+        "id": 2,
+        "skill": "Assembler",
+        "level": "Intermediate"
+      },
+      {
+        "id": 3,
+        "skill": "Raspberry Pi",
+        "level": "Intermediate"
+      },
+      {
+        "id": 4,
+        "skill": "Arduino",
+        "level": "Advance"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "grupo": "Cloud Computing",
+    "items": 
+      [{
+        "id": 1,
+        "skill": "AWS",
+        "level": "Intermediate"
+      },
+      {
+        "id": 2,
+        "skill": "Azure",
+        "level": "Basic"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "grupo": "Other knowledges",
+    "items": 
+      [{
+        "id": 1,
+        "skill": "PMBOK",
+        "level": "Intermediate"
+      },
+      {
+        "id": 2,
+        "skill": "SCRUM",
+        "level": "Intermediate"
+      },
+      {
+        "id": 3,
+        "skill": "Linux",
+        "level": "Intermediate"
+      },
+      {
+        "id": 4,
+        "skill": "Latex",
+        "level": "Advance"
+      },
+      {
+        "id": 5,
+        "skill": "Git",
+        "level": "Advance"
+      },
+      {
+        "id": 6,
+        "skill": "Docker",
+        "level": "Intermediate"
+      }
+    ]
+  }
+]

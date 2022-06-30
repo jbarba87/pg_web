@@ -1,0 +1,22 @@
+.sidebar {
+  font-size: 1.6rem;
+}
+
+.ul-cont {
+  text-align: center;
+}
+.content {
+  padding: 0px;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+.side-ul{
+  padding: 0px;
+  list-style: none;
+  width: 100%;
+  align-items: center;
+}
+.side-li {
+  margin: 1rem;
+}

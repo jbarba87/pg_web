@@ -1,0 +1,24 @@
+
+  [
+    {
+      "id": 1,
+      "institucion": "Pontificia Universidad Católica del Perú",
+      "periodo": "2004 - 2011",
+      "programa": "Electronic engineering",
+      "descripcion": "Tesis: Image Registration using C language."
+    },
+    {
+      "id": 2,
+      "institucion": "Pontificia Universidad Católica del Perú",
+      "periodo": "2012 - 2014",
+      "programa": "Master in digital signal processing",
+      "descripcion": "NOT CONCLUDED"
+    },
+    {
+      "id": 3,
+      "institucion": "ESAN University",
+      "periodo": "03.2021 - 07.2021",
+      "programa": "Diplom of Specialization in Business and Financial Management for Managers, Staff, Directors and Leaders of Agricultural Cooperatives",
+      "descripcion": ""
+    }
+  ]
